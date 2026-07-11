@@ -1,0 +1,12 @@
+# Compiled files
+*.class
+
+# Build folder
+bin/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
